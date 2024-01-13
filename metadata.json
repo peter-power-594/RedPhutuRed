@@ -1,0 +1,17 @@
+{
+    "KPlugin": {
+        "Authors": [
+            {
+                "Email": "red@phutu.red",
+                "Name": "Pierre-Henri Lavigne",
+                "Name[en_GB]": "RedPhutuRed",
+                "Name[x-test]": "xxRedPhutuRedxx"
+            }
+        ],
+        "Id": "RedPhutuRed",
+        "License": "CC-BY-NC-SA-4.0",
+        "Name": "RedPhutuRed",
+        "Name[en_GB]": "RedPhutuRed",
+        "Name[x-test]": "xxRedPhutuRedxx"
+    }
+}
