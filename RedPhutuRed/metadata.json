@@ -1,0 +1,41 @@
+{
+    "KPlugin": {
+        "Authors": [
+            {
+                "Email": "red@phutu.red",
+                "Name": "Pierre-Henri Lavigne",
+                "Name[en_GB]": "Pierre-Henri Lavigne",
+                "Name[ca]": "Pierre-Henri Lavigne",
+                "Name[eo]": "Pierre-Henri Lavigne",
+                "Name[es]": "Pierre-Henri Lavigne",
+                "Name[eu]": "Pierre-Henri Lavigne",
+                "Name[fr]": "Pierre-Henri Lavigne",
+                "Name[hu]": "Pierre-Henri Lavigne",
+                "Name[ja]": "ピエールランリ・ラヴィン",
+                "Name[lt]": "Pierre-Henri Lavigne",
+                "Name[nl]": "Pierre-Henri Lavigne",
+                "Name[sl]": "Pierre-Henri Lavigne",
+                "Name[tr]": "Pierre-Henri Lavigne",
+                "Name[uk]": "Pierre-Henri Lavigne",
+                "Name[x-test]": "xxPierre-Henri Lavignexx"
+            }
+        ],
+        "Id": "RedPhutuRed",
+        "License": "CC-BY-NC-SA-4.0",
+        "Name": "Red Future",
+        "Name[en_GB]": "Red Future",
+        "Name[ca]": "Red Future",
+        "Name[eo]": "Red Future",
+        "Name[es]": "Red Future",
+        "Name[eu]": "Red Future",
+        "Name[hu]": "Red Future",
+        "Name[eu]": "Futur rouge",
+        "Name[ja]": "レッド・フューチャー",
+        "Name[lt]": "Futur rouge",
+        "Name[nl]": "Futur rouge",
+        "Name[sl]": "Futur rouge",
+        "Name[tr]": "Futur rouge",
+        "Name[uk]": "Futur rouge",
+        "Name[x-test]": "xxRedPhutuRedxx"
+    }
+}
